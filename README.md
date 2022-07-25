@@ -15,3 +15,9 @@ EXPOSE 8080
 
 CMD java -jar java-application.jar
 ```
+
+
+ref:
+
+- <https://dzone.com/articles/multi-stage-docker-image-build-for-java-apps>
+- <https://codefresh.io/blog/java_docker_pipeline/>
